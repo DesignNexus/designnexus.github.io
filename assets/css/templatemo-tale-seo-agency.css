@@ -444,7 +444,7 @@ Header Style
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fff;
+  color: white;
   opacity: 0.8;
 }
 
@@ -1981,7 +1981,7 @@ body {
 
 @media (max-width: 1400px) {
   .main-banner .caption {
-    background-color: rgba(250, 250, 250, 0.95);
+    background-color: rgba(154, 161, 161, 0.403);
     padding: 60px;
     border-radius: 23px;
   }
