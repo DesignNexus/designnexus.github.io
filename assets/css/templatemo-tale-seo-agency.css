@@ -226,7 +226,7 @@ Pre-loader Style
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.99);
+  background-color: rgba(8, 7, 7, 0.99);
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
@@ -287,7 +287,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #190f28;
+  background: #e6e2ec;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -310,7 +310,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #1a1326;
+  background: #d6d2dd;
   border-radius: 50%;
 }
 
@@ -679,7 +679,7 @@ Header Style
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #fdfdfd;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -799,7 +799,7 @@ Header Style
 }
 
 .pre-header ul li a {
-  color: #a586bc;
+  color: #896e9e;
   transition: all .4s;
 }
 
@@ -828,7 +828,7 @@ Banner Style
 
 .main-banner {
   position: relative;
-  padding: 295px 0px 250px 20px;
+  padding: 295px 0px 185px 20px;
   background-image: url(../images/banner-righttt.png); /* Adding the background image */
   background-size: cover; /* Ensure the image covers the entire background */
   background-position: right top; /* Position the background image */
@@ -890,19 +890,10 @@ Banner Style
   color:white;
 }
 
-.main-banner .main-button {
-  display: inline-block;
+or{
+  color:white;
 }
 
-.main-banner span {
-  display: inline-block;
-  margin: 0px 10px 0px 10px;
-  color: #7a7a7a;
-}
-
-.main-banner .second-button {
-  display: inline-block;
-}
 
 /* 
 ---------------------------------------------
